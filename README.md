@@ -286,4 +286,3 @@ MIT - do whatever you want with it.
 
 - [Polymarket Gamma API](https://gamma-api.polymarket.com)
 - [Polymarket CLOB Docs](https://docs.polymarket.com)
-- Full arbitrage system: [polymarket_arb](https://github.com/afdelacruz/polymarket_arb)
