@@ -1,0 +1,4 @@
+pydantic>=2.0
+httpx>=0.24
+aiosqlite>=0.19
+websockets>=12.0
