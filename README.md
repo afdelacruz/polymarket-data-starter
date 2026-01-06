@@ -16,7 +16,7 @@ This repo gives you everything you need to start gathering real-time market data
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/polymarket-data-starter.git
+git clone https://github.com/afdelacruz/polymarket-data-starter.git
 cd polymarket-data-starter
 
 # Install dependencies
@@ -175,7 +175,7 @@ ORDER BY date;
 2. SSH in and clone:
 ```bash
 ssh root@YOUR_IP
-git clone https://github.com/YOUR_USERNAME/polymarket-data-starter.git
+git clone https://github.com/afdelacruz/polymarket-data-starter.git
 cd polymarket-data-starter
 ```
 
@@ -286,4 +286,4 @@ MIT - do whatever you want with it.
 
 - [Polymarket Gamma API](https://gamma-api.polymarket.com)
 - [Polymarket CLOB Docs](https://docs.polymarket.com)
-- Full arbitrage system: [polymarket_arb](https://github.com/YOUR_USERNAME/polymarket_arb)
+- Full arbitrage system: [polymarket_arb](https://github.com/afdelacruz/polymarket_arb)
